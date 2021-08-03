@@ -32,7 +32,7 @@ def res():
     # print(ans)
     return str(ans)    
 
-app.run(debug=True)
+app.run()
 
 
 
